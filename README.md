@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armaangarg73
 - 👀 I’m interested in exploring about new technical skills and latest trends appearing in the tech World 
-- 🌱 I’m currently learning C++ and full stack web development 
+- 🌱 I’m currently full stack web development 
 
 
 <!---
